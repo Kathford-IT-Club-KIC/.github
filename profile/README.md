@@ -24,9 +24,9 @@ We welcome all students who are interested in technology to join our club! Here'
 
 ## Connect With Us
 
-- **Website:** [Kathford IT club] (https://www.example.com)
-- **Facebook:**  [Kathford IT club] (https://www.facebook.com/people/kathforditclub/61554820927866/)
-- **Instagram:**  [Kathford IT club] (https://www.linkedin.com/company/example)](https://www.instagram.com/kathforditclub/)
+- **Website:** [Kathford IT club](https://www.example.com)
+- **Facebook:**  [Kathford IT club](https://www.facebook.com/people/kathforditclub/61554820927866/)
+- **Instagram:**  [Kathford IT club](https://www.instagram.com/kathforditclub/)
 
 
 ## Contributors
@@ -35,6 +35,7 @@ We appreciate all the contributions from our members. Special thanks to those wh
 
 - [Abiral Tamang](https://github.com/abiraltamang)
 - [Bishal Pahari](https://github.com/Bishal-Pahari)
+- [Nimesh Pokharel](https://github.com/nimeshpokhrel)
 
 ## License
 
