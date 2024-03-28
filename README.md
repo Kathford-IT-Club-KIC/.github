@@ -24,7 +24,6 @@ We welcome all students who are interested in technology to join our club! Here'
 
 ## Connect With Us
 
-- **Website:** [Kathford IT club] (https://www.example.com)
 - **Facebook:**  [Kathford IT club] (https://www.facebook.com/people/kathforditclub/61554820927866/)
 - **Instagram:**  [Kathford IT club] (https://www.linkedin.com/company/example)](https://www.instagram.com/kathforditclub/)
 
